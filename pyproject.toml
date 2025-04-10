@@ -12,7 +12,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 dynamic = ["version"]
-name = "pyelftools"
+name = "tt-pyelftools"
 requires-python = ">= 3.8"
 authors = [
     {name = "Eli Bendersky", email = "eliben@gmail.com"},
@@ -38,9 +38,8 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/eliben/pyelftools"
-Repository = "https://github.com/eliben/pyelftools.git"
-Issues = "https://github.com/eliben/pyelftools/issues"
+Homepage = "https://github.com/adjordjevic-TT/pyelftools"
+Repository = "https://github.com/adjordjevic-TT/pyelftools.git"
 
 [tool.setuptools]
 packages = [
